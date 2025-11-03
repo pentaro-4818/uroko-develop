@@ -23,6 +23,18 @@
           "type": "title",
           "settings": {}
         },
+        "shopify_apps_blocks_product_review_summary_04e45d92_3ac0_49f4_b893_1e7172863e7f_8DntFc": {
+          "type": "shopify://apps//blocks/product--review-summary/04e45d92-3ac0-49f4-b893-1e7172863e7f",
+          "settings": {
+            "active_star_color": "#FFD700",
+            "inactive_star_color": "#9ca3af",
+            "star_size": 20,
+            "review_number_color": "#000000",
+            "review_number_size": 16,
+            "margin_top": 0,
+            "margin_bottom": 0
+          }
+        },
         "price": {
           "type": "price",
           "settings": {}
@@ -59,6 +71,7 @@
       "block_order": [
         "vendor",
         "title",
+        "shopify_apps_blocks_product_review_summary_04e45d92_3ac0_49f4_b893_1e7172863e7f_8DntFc",
         "price",
         "variant_picker",
         "quantity_selector",
@@ -108,7 +121,7 @@
           "settings": {
             "title_color": "#000000",
             "base_color": "#000000",
-            "active_star_color": "#FFD700",
+            "active_star_color": "#ffd700",
             "inactive_star_color": "#9ca3af",
             "review_list_title": "レビュー",
             "view_all_review_text": "すべてのレビューを表示",
@@ -118,12 +131,12 @@
             "border_color": "#cccccc",
             "offset": 3,
             "post_reviw_button_label": "レビューを投稿する",
-            "post_review_button_label_color": "#FFFFFF",
+            "post_review_button_label_color": "#ffffff",
             "post_review_button_background_color": "#000000",
             "post_review_button_border_color": "#000000",
             "post_review_button_border_radius": 10,
             "review_submit_button_label": "投稿",
-            "submit_button_label_color": "#FFFFFF",
+            "submit_button_label_color": "#ffffff",
             "submit_button_background_color": "#333333",
             "submit_button_border_color": "#333333",
             "submit_button_border_radius": 8,
