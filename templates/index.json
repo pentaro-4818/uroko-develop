@@ -36,7 +36,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify://shop_images/a-bridge-sitting-in-thick-pink-and-purple-fog.jpg",
+        "image": "shopify://shop_images/wind-21844_256.gif",
         "image_overlay_opacity": 30,
         "image_height": "medium",
         "image_behavior": "fixed",
@@ -189,7 +189,6 @@
         "heading": "Video",
         "heading_size": "h1",
         "enable_video_looping": true,
-        "video": "shopify://files/videos/IMG_3244.MOV",
         "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "description": "",
         "full_width": false,
